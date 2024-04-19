@@ -5,8 +5,6 @@ meroBot is a robotics platform based on Arduino. It is a DIY kit which can be as
 
 ![Alt text](images/merobot.jpg)
 
-![Alt text](images/merobot-label.png)
-
 ## Specifications
 
 - Based on Arduino Nano
@@ -19,3 +17,5 @@ meroBot is a robotics platform based on Arduino. It is a DIY kit which can be as
 - Bluetooth sensor so that it can be controller via Phone.
 - Easy to solder and can be assembled by High School Students
 - Perfect STEM Kit.
+
+![Alt text](images/merobot-label.jpg)
