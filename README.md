@@ -19,3 +19,7 @@ meroBot is a robotics platform based on Arduino. It is a DIY kit which can be as
 - Perfect STEM Kit.
 
 ![Alt text](images/merobot-label.jpg)
+
+## Video Tutorials
+- [meroBot Intro Video](https://www.youtube.com/watch?v=d5A6geYc3jI)
+- [Soldering and Assembly](https://www.youtube.com/watch?v=o-fbZAtOc6Y)
